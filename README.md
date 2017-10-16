@@ -1,5 +1,5 @@
 # CMSC-325-Project-4
-#### Create a Simple 3D Scene in the Java Monkey Engine
+#### Create a Simple 3D Scene in the Java Monkey Engine.
 
 In this project, I have created a simple 3D scene that introduces the concepts of translations, terrain, importing assets, the update loop, and more.  The player is a Tank, which is moveable around the scene using the W, A, S, and D keys.
 
